@@ -68,6 +68,9 @@ instance/
 # Scrapy stuff:
 .scrapy
 
+#Virtual env
+DjangoProjectSite/
+
 # Sphinx documentation
 docs/_build/
 
